@@ -4,9 +4,11 @@
 
 Me chamo **Gustavo Ramos**, sou estudante de **Ciência da Computação** e atualmente trabalho como **Analista de Suporte de Sistemas**, em transição ativa para a área de **Desenvolvimento de Software**.
 
-Tenho experiência prática com sistemas em produção, entendimento de **regra de negócio**, atendimento técnico e análise de problemas reais. Agora, estou focado em evoluir no backend e no desenvolvimento fullstack, construindo projetos próprios e estudando arquitetura, APIs e boas práticas.
+Tenho experiência prática com sistemas em produção, entendimento de **regra de negócio**, atendimento técnico e análise de problemas reais. Hoje, estou focado em evoluir no **backend** e no **desenvolvimento fullstack**, construindo projetos próprios e estudando arquitetura, APIs e boas práticas.
 
-Atualmente desenvolvendo projetos com foco em **Node.js, Java, banco de dados e IA**, sempre buscando unir tecnologia com impacto real na vida das pessoas.
+Durante minha transição, venho utilizando **intensamente ferramentas e tecnologias do ecossistema moderno de desenvolvimento**, como **Docker** para padronização de ambientes, **MongoDB (Compass e Tools)** para modelagem e análise de dados, **Node.js** no backend e **Angular** no frontend. No dia a dia, utilizo **Warp** como terminal e o **Cursor** como IDE principal, explorando produtividade e boas práticas com apoio de IA.
+
+Atualmente desenvolvo projetos com foco em **Node.js, Java, bancos de dados e Inteligência Artificial**, sempre buscando unir tecnologia com **impacto real na vida das pessoas**.
 
 📍 São Paulo - SP
 
