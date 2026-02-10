@@ -115,7 +115,8 @@ Atualmente desenvolvo projetos com foco em **Node.js, Java, bancos de dados e In
     title="Angular" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+/>
 
 
 <br/>
