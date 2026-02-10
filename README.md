@@ -43,6 +43,16 @@ Atualmente desenvolvo projetos com foco em **Node.js, Java, bancos de dados e In
 
 <img 
     align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+
+<img 
+    align="left" 
     alt="MongoDB" 
     title="MongoDB"
     width="30px" 
