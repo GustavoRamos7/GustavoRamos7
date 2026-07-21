@@ -1,8 +1,8 @@
 # 👨🏾‍💻 Gustavo Ramos
 
-**`Desenvolvedor em Formação | Analista de Suporte de Sistemas`**
+**`Dev. Fullstack`**
 
-Me chamo **Gustavo Ramos**, sou estudante de **Ciência da Computação** e atualmente trabalho como **Analista de Suporte de Sistemas**, em transição ativa para a área de **Desenvolvimento de Software**.
+Me chamo **Gustavo Ramos**, sou estudante de **Ciência da Computação** e atualmente trabalho como **Desenvolvedor de Software Fullstack**.
 
 Tenho experiência prática com sistemas em produção, entendimento de **regra de negócio**, atendimento técnico e análise de problemas reais. Hoje, estou focado em evoluir no **backend** e no **desenvolvimento fullstack**, construindo projetos próprios e estudando arquitetura, APIs e boas práticas.
 
